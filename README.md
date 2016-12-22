@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to TG2 Pages
 
-You can use the [editor on GitHub](https://github.com/F4UFramework/TG2-Test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [GitHub issues](https://github.com/F4UFramework/TG2-Test/issues) to contribute with amendment recommendations and open relevant discussions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Spreadsheets
 
-### Markdown
+The following spreadsheets was generated from a Google Spreadsheet document. 
+Presenting them in the GitHub in HTML format we are able to track the discussions/issues and their modifications. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/F4UFramework/TG2-Test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Comments](https://github.com/F4UFramework/TG2-Test/DQTests/Comments.html)
+- [Members](https://github.com/F4UFramework/TG2-Test/DQTests/Members.html	Add files via upload	7 minutes ago
+- [Principles](https://github.com/F4UFramework/TG2-Test/DQTests/Principles.html
+- [References](https://github.com/F4UFramework/TG2-Test/DQTests/References.html
+- [TDWG2016](https://github.com/F4UFramework/TG2-Test/DQTests/TDWG2016.html
+- [Tasks](https://github.com/F4UFramework/TG2-Test/DQTests/Tasks.html
+- [Tests-1](https://github.com/F4UFramework/TG2-Test/DQTests/Tests-1.html
+- [Tests-2](https://github.com/F4UFramework/TG2-Test/DQTests/Tests-2.html
+- [Tests-current](https://github.com/F4UFramework/TG2-Test/DQTests/Tests-current.html
+- [Tests](https://github.com/F4UFramework/TG2-Test/DQTests/Tests.html
+- [Tools](https://github.com/F4UFramework/TG2-Test/DQTests/Tools.html
